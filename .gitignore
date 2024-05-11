@@ -1,0 +1,8 @@
+﻿bin/
+obj/
+.idea/
+.vscode/
+build_debug.bat
+build_release.bat
+RetargetAssemblies.ps1
+Release/
